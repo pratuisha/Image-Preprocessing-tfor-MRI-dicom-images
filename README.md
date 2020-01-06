@@ -1,4 +1,4 @@
-# Image-Preprocessing-tfor-MRI-dicom-images
+# Image-Preprocessing-for-MRI-dicom-images
 
 Step 1: Reading/ Loading the dicom images to the loal Environment from the google Drive with the authorization  Code
 
